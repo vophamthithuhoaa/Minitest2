@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseProject</string>
+    <string name="title_updatecourse">UpdateCourse</string>
+    <string name="title_activity">CourseDetailsActivity</string>
+</resources>
